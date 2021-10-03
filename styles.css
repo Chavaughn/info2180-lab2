@@ -21,8 +21,8 @@ header img {
 
 .container {
     display: grid;
-    grid-template-columns: 50px 1fr 1fr 300px 50px;
-    grid-template-rows: 1fr 80px;
+    grid-template-columns: 20px 1fr 1fr 280px 10px;
+    grid-template-rows: 1fr 40px;
     gap: 150px;
 }
 
